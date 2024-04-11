@@ -11,6 +11,8 @@ Base endpoint:
 
 Contains information about tasks stored for the users of the service.
 
+New line of text.
+
 To have a task in the service, the user must be added to
 the service first.
 
