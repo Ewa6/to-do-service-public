@@ -6,7 +6,6 @@ layout: page
 Base endpoint:
 
 ```shell
-
 {server_url}/tasks
 ```
 
@@ -20,7 +19,6 @@ the service first.
 Sample `task` resource
 
 ```js
-
 {
     "user_id": 1,
     "title": "Grocery shopping",
